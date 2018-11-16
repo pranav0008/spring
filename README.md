@@ -1,1 +1,1 @@
-# spring project files
+# Spring Boot project files
